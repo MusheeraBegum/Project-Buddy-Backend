@@ -32,23 +32,21 @@ Users have the option to delete their accounts, ensuring complete control over t
 Project Buddy streamlines the project management process, fostering collaboration, and innovation within a vibrant community of like-minded individuals. Whether you're a seasoned professional or an aspiring enthusiast, Project Buddy is your ultimate companion for project success.
 
 ## Screen shots
+## Screen shots
 ### 1. Home
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/fedd8824-eff0-4597-a16e-fe351d98392b)
+![image](https://github.com/MusheeraBegum/Project-Buddy-Frontend/assets/88657265/9d2d0c49-2a74-431c-80b7-a868543d8d48)
 
 ### 2. User login and Signup
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/ef9983f3-21dd-4c9b-b3ac-c3a2f8a00ebe)
+![image](https://github.com/MusheeraBegum/Project-Buddy-Frontend/assets/88657265/16c6d2af-6bfd-45dc-9507-2bf5f91dd864)
 
 ### 3. My Projects
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/0ead57de-251f-4eb7-9559-19897623fe0d)
+![image](https://github.com/MusheeraBegum/Project-Buddy-Frontend/assets/88657265/157dfe6e-6026-4987-97c1-e48472dec89e)
 
 ### 4. Request to join projects
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/725424bc-7037-4660-9a0d-0ef51e5e7f9e)
+![image](https://github.com/MusheeraBegum/Project-Buddy-Frontend/assets/88657265/1fbcebb0-656e-469a-b400-3278469977a6)
 
-### 5. Accept or Reject Request
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/84f223a0-52e0-41e1-9ecc-ef2c58b80e96)
+### 5. Discussion Room
+![image](https://github.com/MusheeraBegum/Project-Buddy-Frontend/assets/88657265/8c3ef476-7403-41e6-a07e-2bfc8b7d740a)
 
-### 6. Discussion Room
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/9df0a3e3-9190-460f-96af-1d1fbb8470c3)
-
-### 7. Profile Card
-![image](https://github.com/himanshu-23a/projectbuddy-frontend/assets/101521097/ed0a941a-16ee-41a3-bfb6-3a6e2ae26c34)
+### 6. Profile Card
+![image](https://github.com/MusheeraBegum/Project-Buddy-Frontend/assets/88657265/6c769483-0c48-4dfe-9708-3dbeca590b0f)
